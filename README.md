@@ -11,6 +11,7 @@ Insights gained from analysis of selected data sets dictates that Microsoft shou
 - Competition in the movie industry against popular movie studios.
 - Profitability in terms of Cost of production compared to the returns.
 - Original language associated with movies to be produced.
+
 ![business_prob](https://github.com/ruth-kitasi/Microsoft-movie-studio-project/assets/106556092/69a45cc9-05c8-42e8-a016-91495270f3ab)
 
 # Data
